@@ -1,3 +1,6 @@
+---
+title: Document Center
+---
 
 # Computer Science Syllabus
 
