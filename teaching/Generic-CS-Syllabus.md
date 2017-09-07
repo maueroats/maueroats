@@ -25,7 +25,7 @@ Anything you need that you do not see here, check the following sources:
 
 I read email regularly. Email [amauer-oats@cps.edu](mailto:amauer-oats@cps.edu). 
 I am willing to call or text with you. 
-Make sure your student put your phone number on the [parent page of the student information form] (http://tinyurl.com/2017b-wy-cs-survey) ... or email me.
+Make sure your student put your phone number on the [parent page of the student information form](http://tinyurl.com/2017b-wy-cs-survey) ... or email me.
 
 ## Philosophy
 
